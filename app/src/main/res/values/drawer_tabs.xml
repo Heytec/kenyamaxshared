@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawer_tabs">
+        <item>Help</item>
+        <item>Rate</item>
+        <item>Share</item>
+
+
+    </string-array>
+
+
+    <string-array name="drawer_tabse">
+        <item>IMAX 20th Century </item>
+        <item>Fox Cineplex Sarit</item>
+        <item>Century cinemax junction</item>
+        <item>Anga sky cinema</item>
+        <item>Planet Media Prestige Plaza</item>
+        <item>NyaliCinemax Mombasa</item>
+        <item>Planet Media Kisumu </item>
+
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
